@@ -86,7 +86,7 @@ renown film industry (Bollywood).
 
 ### P7 Ikea Furniture
 
-In this project,I analyzed Ikea furniture data. To be honest, there was
+In this project, I analyzed Ikea furniture data. To be honest, there was
 not a whole lot to explore. The data was scraped from their website. The
 somewhat important finding is that more expensive items tend to be more
 colorful (have more colors).
