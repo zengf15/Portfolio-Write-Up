@@ -2,7 +2,7 @@
 title: "Portfolio-Write-Up"
 author: "Fanyi Zeng"
 date: '2022-05-05'
-output: html_document
+output: github_document
 ---
 
 ### P1 COVID Trials
